@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Mobile App development with flutter
 
-💞️ I’m looking to collaborate on a job as flutter developer
+💞️ I’m looking for collaborate on a job as flutter developer
 
 📫 How to reach me :Via E-mail :fairouzkhalaf030@gmail.com Via Facebook :Fairouz Khalaf Or visit https://www.facebook.com/profile.php?id=100022009476583
 
