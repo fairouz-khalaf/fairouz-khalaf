@@ -6,6 +6,6 @@
 
 💞️ I’m looking for collaborate on a job as flutter developer
 
-📫 How to reach me :Via E-mail :fairouzkhalaf030@gmail.com Via Facebook :Fairouz Khalaf Or visit https://www.facebook.com/profile.php?id=100022009476583
+📫 How to reach me :Via E-mail :fairouzkhalaf030@gmail.com 
 
 ⚡ Fun fact always learning and up to date
