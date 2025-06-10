@@ -8,7 +8,7 @@
                                                                                                                                                                    
 ![AppStore](https://img.shields.io/badge/AppStore-1Apps-ff69b4?style=flat-square)
 ![PlayStore](https://img.shields.io/badge/PlayStore-1Apps-9370db?style=flat-square)
-![Experience](https://img.shields.io/badge/Exp-+1year-40e0d0?style=flat-square)                                                                                                                   [Screenshot 2025-06-10 163700](https://github.com/user-attachments/assets/646bfb6b-d641-41b9-be9a-5b73da58608f)
+![Experience](https://img.shields.io/badge/Exp-+1year-40e0d0?style=flat-square)   
 
 
 
