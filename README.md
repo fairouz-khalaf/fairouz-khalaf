@@ -5,7 +5,10 @@
 🌱 Currently exploring mobile app development using Flutter
 
 ⚡ Fun fact: I’m always curious and stay up to date with new technologies
+![AppStore](https://img.shields.io/badge/AppStore-4Apps-blue?style=flat-square)
+![PlayStore](https://img.shields.io/badge/PlayStore-4Apps-brightgreen?style=flat-square)
+![Exp](https://img.shields.io/badge/Exp-+4year-maroon?style=flat-square)
 
-!(![code](https://github.com/user-attachments/assets/5f4ebb40-5d97-4d09-9a36-4d47f1731ea4)
-)
+
+
 
