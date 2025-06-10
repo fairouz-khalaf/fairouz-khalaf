@@ -6,9 +6,9 @@
 
 ⚡ Fun fact: I’m always curious and stay up to date with new technologies
 
-![AppStore](https://img.shields.io/badge/AppStore-2Apps-ff69b4?style=flat-square)
-![PlayStore](https://img.shields.io/badge/PlayStore-2Apps-9370db?style=flat-square)
-![Experience](https://img.shields.io/badge/Exp-2year-40e0d0?style=flat-square)
+![AppStore](https://img.shields.io/badge/AppStore-1Apps-ff69b4?style=flat-square)
+![PlayStore](https://img.shields.io/badge/PlayStore-1Apps-9370db?style=flat-square)
+![Experience](https://img.shields.io/badge/Exp-+1year-40e0d0?style=flat-square)
 
 
 
