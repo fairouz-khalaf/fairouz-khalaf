@@ -1,4 +1,4 @@
-👋 Hi, I’m @fairouz-khalaf
+👋 Hi, I’m  [**MFairouz Khalaf**](https://www.linkedin.com/in/fairouz-khalaf-86a67a320/) 👋
 
 👀 I’m interested in Learning Programming
 
