@@ -8,7 +8,7 @@
 
 ### 👩‍💻 About Me
 
-- 💻 I'm a Software Engineer</strong>  
+- 💻 I'm a Software Engineer& Flutter developer</strong>  
 - 👀 I’m passionate about learning programming  
 - 🌱 Currently exploring mobile app development using Flutter  
 - ⚡ Fun fact: I’m always curious and stay up to date with new technologies
