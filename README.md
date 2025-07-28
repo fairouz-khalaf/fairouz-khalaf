@@ -24,8 +24,8 @@
 
 
 <p>
-  <img src="https://img.shields.io/badge/AppStore-1App-ff69b4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PlayStore-1App-9370db?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AppStore-2App-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PlayStore-2App-9370db?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Experience-2Years-40e0d0?style=for-the-badge"/>
 </p>
 
